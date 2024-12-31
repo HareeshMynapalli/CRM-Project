@@ -39,9 +39,14 @@ Developed a comprehensive 🤝 CRM project using a 📂 dataset to create intera
 ## 🖼️ Dashboard Images
 Below are sample dashboard visualizations showcasing Opportunity and Lead analysis.
 
-![Opportunity Dashboard](./images/opportunity_dashboard_image.png)
+### Home Page of Dashboard:
+![Home Page](https://i.postimg.cc/TwC1xNcT/Screenshot-2024-12-31-211220.png)
 
-![Lead Dashboard](./images/lead_dashboard_image.png)
+### Opportunity Dashboard:
+![Opportunity Dashboard](https://i.postimg.cc/7L4SYcSz/Screenshot-2024-12-31-211108.png)
+
+### Lead Dashboard:
+![Lead Dashboard](https://i.postimg.cc/HspxngNd/Screenshot-2024-12-31-211148.png)
 
 ---
 
